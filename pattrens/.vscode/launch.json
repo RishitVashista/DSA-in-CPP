@@ -1,4 +1,4 @@
- {
+{
   "version": "0.2.0",
   "configurations": [
     {
@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/rishi/OneDrive/Desktop/STL c++",
-      "program": "c:/Users/rishi/OneDrive/Desktop/STL c++/build/Debug/outDebug",
+      "cwd": "c:/Users/rishi/OneDrive/Desktop/pattrens",
+      "program": "c:/Users/rishi/OneDrive/Desktop/pattrens/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
